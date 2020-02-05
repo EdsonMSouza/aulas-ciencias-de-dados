@@ -1,14 +1,6 @@
 name: aulas-ciencias-de-dados
 channels:
-  - conda-forge
 dependencies:
-  - python=3.8
-  - numpy
-  - matplotlib
-  - seaborn
-  - pandas
-  - statsmodels
-  - scikit-learn 
   - rise
   - pip:
     - jupyter-contrib-nbextensions
