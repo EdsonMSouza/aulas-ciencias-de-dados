@@ -1,4 +1,4 @@
-name: ciencia-de-dados-uni9
+name: aulas-ciencias-de-dados
 channels:
   - conda-forge
 dependencies:
