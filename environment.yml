@@ -1,5 +1,6 @@
 name: aulas-ciencias-de-dados
 channels:
+  - conda-forge
 dependencies:
   - rise
   - pip:
